@@ -10,3 +10,12 @@ This script allows you to customize the appearance of the Command Prompt by read
 
    ```bash
    git clone https://github.com/your-username/custom-cmd-appearance.git
+
+2. **Change the Settings**
+
+   Colors:
+   Black, Blue, Green, Aqua, Red, Purple, Yellow, White, Gray, Light Blue, Light Green, Light Aqua, Light Red, Light Purple, Light Yellow, Bright White
+
+3. **Run run.bat**
+
+**Have fun!**
